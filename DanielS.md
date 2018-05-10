@@ -1,5 +1,7 @@
 # Welcome to Daniel's page
 
+I've made changes using command line
+
 Hello, I love my job, but I also love football. But I'm rubbish playing it so you won't see any picture of me!
 
 ## Here is a list of my friends and their pages
