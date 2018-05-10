@@ -1,5 +1,7 @@
 # Welcome to Dee's page
 
+Changes made!
+
 Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ![](/data-fellowship-git/images/covalent-bond.jpg)
